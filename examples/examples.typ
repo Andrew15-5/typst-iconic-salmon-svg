@@ -61,6 +61,10 @@
 #h(1cm)
 #github-info("Bi0T1N", green)
 
+#github-info(url: "https://github.com/Bi0T1N/typst-iconic-salmon-svg?tab=MIT-1-ov-file", "typst-iconic-salmon-svg's license", rgb("#ffcc00"))
+#h(1cm)
+#github-info(url: "https://github.com/Bi0T1N/typst-iconic-salmon-svg#usage", "typst-iconic-salmon-svg's usage", green)
+
 == GitLab
 #gitlab-info("Bi0T1N")
 #h(1cm)
