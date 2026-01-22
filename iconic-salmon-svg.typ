@@ -35,12 +35,6 @@
       clickable_link = url
     }
 
-    // unify all links
-    // Google Scholar doesn't find the profile if a slash is appended -.-'
-    if not clickable_link.ends-with("/") and not clickable_link.contains("scholar.google") {
-      clickable_link = clickable_link + "/"
-    }
-
     // content
       icon-provider()
       " "
